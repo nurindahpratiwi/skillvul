@@ -35,4 +35,3 @@ Alternatively, you can access the system through the following URL:
 ### How It Works
 
 The system utilizes machine learning algorithms trained on customer interactions and purchase history data to predict the most suitable products for a given customer. Users can input a customer ID, and the system will leverage the selected model to generate personalized recommendations. These recommendations are based on the customer's past interactions and purchase behavior, ensuring relevance and accuracy.
-```
